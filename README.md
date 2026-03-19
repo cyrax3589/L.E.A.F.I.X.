@@ -20,9 +20,9 @@
   1. [Overview](#-overview)
   2. [Key Features](#-key-features)
   3. [System Architecture](#-system-architecture)
-  4. [Installation & Setup](#-installation--setup)
-  5. [Dataset](#-dataset-details)
-  6. [Future Improvements](#-future-roadmap)
+  4. [Installation & Setup](#-installation-&-setup)
+  5. [Dataset](#-dataset)
+  6. [Future Improvements](#-future-improvements)
   
 </details>
 
