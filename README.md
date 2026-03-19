@@ -99,6 +99,8 @@ https://www.kaggle.com/datasets/emmarex/plantdisease
 
 ## UI
 
+<img width="1919" height="1016" alt="Screenshot 2026-03-19 134601" src="https://github.com/user-attachments/assets/3f6bb4b9-90ad-4588-a8b2-70cf5762fef2" />
+
 
 ---
 ## Future Improvements
