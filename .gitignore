@@ -1,0 +1,15 @@
+# Virtual environment
+keras_env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Model files (optional if large)
+*.h5
+*.keras
