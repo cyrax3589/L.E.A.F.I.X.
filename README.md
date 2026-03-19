@@ -97,6 +97,10 @@ https://www.kaggle.com/datasets/emmarex/plantdisease
 
 ---
 
+## UI
+
+
+---
 ## Future Improvements
 - Add Grad-CAM for model interpretability
 - Improve UI design
